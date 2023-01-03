@@ -1,0 +1,9 @@
+{
+ "politics": ["In todays political news:", "In this weeks international news:", "In this weeks political news:"],
+ "sports": ["In todays sports news:", "In this weeks sports news:"],
+ "business": ["In todays business news:", "In this weeks business news:"],
+ "technology": ["In todays technology news:", "In this weeks technology news:"],
+ "entertainment": ["In todays entertainment news:", "In this weeks entertainment news:"],
+ "science": ["In todays science news:", "In this weeks science news:"],
+ "health": ["In todays health news:", "In this weeks health news:"]
+}
