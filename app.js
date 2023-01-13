@@ -6,6 +6,6 @@ const sendEmail = require('./Email/Email.js');
 
 cron.schedule('25 10 * * 1', () => {
   //console.log('Every monday at 10:25 am I will...');
-  // send email
+  // send email to everyone
   sendEmail();
 });
